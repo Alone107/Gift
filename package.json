@@ -1,7 +1,8 @@
 {
   "name": "react-gifts",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://Alone107.github.io/Gift/",
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^2.12.0",
     "@testing-library/dom": "^10.4.1",
