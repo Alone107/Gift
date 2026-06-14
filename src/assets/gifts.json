@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "img/gift/Assembling a bouquet of candies.jpg",
+    "title": "Сборка букета из конфет",
+    "type": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 1000,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "img/gift/Bouquets of nuts.jpg",
+    "title": "Букеты из орех",
+    "type": [0],
+    "sizes": [26, 40],
+    "price": 900,
+    "category": 3,
+    "rating": 3
+  },
+  {
+    "id": 2,
+    "imageUrl": "img/gift/Candle in a wooden candlestick.jpg",
+    "title": "Свеча в деревянном подсвечнике",
+    "type": [0],
+    "sizes": [26],
+    "price": 1600,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "imageUrl": "img/gift/Candle in an eco glass.jpg",
+    "title": "Свеча в эко стакане",
+    "type": [0],
+    "sizes": [26],
+    "price": 900,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "imageUrl": "img/gift/Candy flower.jpg",
+    "title": "Цветок из конфет",
+    "type": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 1000,
+    "category": 3,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "imageUrl": "img/gift/Candy peony.jpg",
+    "title": "Пион из конфет",
+    "type": [0],
+    "sizes": [26, 30, 40],
+    "price": 1200,
+    "category": 3,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "imageUrl": "img/gift/flower-nuts.jpg",
+    "title": "Букет из орех",
+    "type": [1],
+    "sizes": [30, 40],
+    "price": 1900,
+    "category": 4,
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "imageUrl": "img/gift/flower-with-greks-nuts.jpg",
+    "title": "Букет из грецкого ореха",
+    "type": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 900,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "imageUrl": "img/gift/Men's gift from sausages.jpg",
+    "title": "Мужской подарок из колбас",
+    "type": [0, 1],
+    "sizes": [30, 40],
+    "price": 1800,
+    "category": 5,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "imageUrl": "img/gift/Natural soy wax candle.jpg",
+    "title": "Свеча из натурального соевого воска",
+    "type": [0],
+    "sizes": [26],
+    "price": 1500,
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "imageUrl": "img/gift/Sunflower made of candy.jpg",
+    "title": "Подсолнух из конфет",
+    "type": [0],
+    "sizes": [30, 40],
+    "price": 1200,
+    "category": 3,
+    "rating": 5
+  }
+]
